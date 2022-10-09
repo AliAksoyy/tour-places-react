@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+  background: linear-gradient(to left, #40e0d0, #ff8c00, #ff0080);
+}
+
+
+
+

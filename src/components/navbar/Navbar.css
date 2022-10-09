@@ -1,0 +1,30 @@
+nav{
+    background-color: black;
+    height: 7vh;
+    color:white;
+    font-weight: 600;
+}
+
+nav ul{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style-type: none;
+    margin:0.7rem;
+    transition: all .5s;
+}
+
+nav ul li:hover{
+    background-color: aquamarine;
+    padding:0.5rem;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}

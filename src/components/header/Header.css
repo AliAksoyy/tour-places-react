@@ -1,0 +1,9 @@
+header .head{
+    text-align: center;
+    margin:2rem;
+    transition: all 1s;
+}
+
+.head:hover{
+    color:rgb(255, 187, 0);
+}
